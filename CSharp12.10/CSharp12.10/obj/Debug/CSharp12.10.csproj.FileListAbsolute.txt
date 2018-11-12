@@ -1,0 +1,7 @@
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\bin\Debug\CSharp12.10.exe.config
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\bin\Debug\CSharp12.10.exe
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\bin\Debug\CSharp12.10.pdb
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\obj\Debug\CSharp12.10.csprojAssemblyReference.cache
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\obj\Debug\CSharp12.10.csproj.CoreCompileInputs.cache
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\obj\Debug\CSharp12.10.exe
+C:\Users\шоканова\source\repos\CSharp12.10\CSharp12.10\obj\Debug\CSharp12.10.pdb
